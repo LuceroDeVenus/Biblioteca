@@ -1,15 +1,11 @@
 nav {
     background-color: #353a40;
 }
-
-;
-
 body {
     background: #353a40;
     margin: 0px;
 }
 
-;
 #bienvenidos{
     position: relative;
     left: -20px;
@@ -25,15 +21,11 @@ body {
     zoom: 1;
  }
 
-;
-
 .carousel-inner {
     height: 300px;
     width: 100px;
     flex-wrap: wrap;
 }
-
-;
 
 a {
     color: #2ca090;
@@ -41,13 +33,10 @@ a {
 
 }
 
-;
 
 a:hover {
     color: #1c8577;
 }
-
-;
 
 nav {
     background-color: #353a40;
